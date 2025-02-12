@@ -4,3 +4,4 @@ will check back later.
 
 skills used:
 - HTML
+- CSS
